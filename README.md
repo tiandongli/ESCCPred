@@ -7,10 +7,9 @@ The model has been validated and shows promising performance with high accuracy,
 #### Web server
 https://litdong.shinyapps.io/ESCCPred/
 
-<img src="https://github.com/tiandongli/hccTAAb/blob/main/www/0_flow%20diagram.png" style='width: 600px; height: auto;'>
+<img src="https://github.com/tiandongli/ESCCPred/blob/main/ESCCPred.png" style='width: 600px; height: auto;'>
 
 <h1>About</h1>
-
 ***Cite us!***
 
 TD Li, GY Sun, H Ye, CJ Song, YF Cheng, YL Zou, YJ Shen, JX Shi, KY Wang,  LP Dai, P Wang.  ESCCPred: A machine learning model for diagnostic prediction of early esophageal squamous cell carcinoma using autoantibody profiles(in preparation)
