@@ -1,8 +1,10 @@
-<h1><a href="http://nscc.zzu.edu.cn/hccTAAb/">hccTAAb Atlas </a></h1>
+<h1><a href="https://litdong.shinyapps.io/ESCCPred/"> ESCCPred </a></h1>
 
 ### ESCCPred: A machine learning model for diagnostic prediction of early esophageal squamous cell carcinoma using autoantibody profiles
-#### Web server
+ESCCPred is a prediction tool designed for early diagnosis of esophageal squamous cell carcinoma (ESCC). It utilizes machine learning algorithms to construct a diagnostic model based on serum autoantibodies. 
+The model has been validated and shows promising performance with high accuracy, sensitivity, and specificity. The web-based interface of ESCCPred allows easy access to the diagnostic tool, providing a novel and serological method for early detection of ESCC.
 
+#### Web server
 https://litdong.shinyapps.io/ESCCPred/
 
 <img src="https://github.com/tiandongli/hccTAAb/blob/main/www/0_flow%20diagram.png" style='width: 600px; height: auto;'>
@@ -11,7 +13,7 @@ https://litdong.shinyapps.io/ESCCPred/
 
 ***Cite us!***
 
-TD Li, P Wang, GY Sun, YL Zou, YF Cheng, H Wang, Y Lu, JX Shi, KY Wang, Q Zhang, H Ye. hccTAAb Atlas: an integrated knowledge database for tumor-associated autoantibodies in hepatocellular carcinoma(in preparation)
+TD Li, GY Sun, H Ye, CJ Song, YF Cheng, YL Zou, YJ Shen, JX Shi, KY Wang,  LP Dai, P Wang.  ESCCPred: A machine learning model for diagnostic prediction of early esophageal squamous cell carcinoma using autoantibody profiles(in preparation)
 
 ***Contact:***
 
