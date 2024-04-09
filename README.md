@@ -4,10 +4,10 @@
 ESCCPred is a prediction tool designed for early diagnosis of esophageal squamous cell carcinoma (ESCC). It utilizes machine learning algorithms to construct a diagnostic model based on serum autoantibodies. 
 The model has been validated and shows promising performance with high accuracy, sensitivity, and specificity. The web-based interface of ESCCPred allows easy access to the diagnostic tool, providing a novel and serological method for early detection of ESCC.
 
+<img src="https://github.com/tiandongli/ESCCPred/blob/main/ESCCPred.png" style='width: 800px; height: auto;'>
+
 #### Web server
 https://litdong.shinyapps.io/ESCCPred/
-
-<img src="https://github.com/tiandongli/ESCCPred/blob/main/ESCCPred.png" style='width: 600px; height: auto;'>
 
 <h1>About</h1>
 ***Cite us!***
