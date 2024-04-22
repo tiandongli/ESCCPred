@@ -13,7 +13,7 @@ https://litdong.shinyapps.io/ESCCPred/
 
 ***Cite us!***
 
-TD Li, GY Sun, H Ye, CJ Song, YF Cheng, YL Zou, YJ Shen, JX Shi, KY Wang,  LP Dai, P Wang.  ESCCPred: A machine learning model for diagnostic prediction of early esophageal squamous cell carcinoma using autoantibody profiles(in preparation)
+TD Li, GY Sun, H Ye, et al.  ESCCPred: A machine learning model for diagnostic prediction of early esophageal squamous cell carcinoma using autoantibody profiles(in preparation)
 
 ***Contact:***
 
